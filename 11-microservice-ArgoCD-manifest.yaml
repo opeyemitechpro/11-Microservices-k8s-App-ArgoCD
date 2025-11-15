@@ -244,8 +244,8 @@ spec:
             value: "0"
           # - name: CYMBAL_BRANDING
           #   value: "true"
-          - name: FRONTEND_MESSAGE
-            value: "End-to-End DevSecOps Project - <a href="https://opeyemitechpro.github.io/my-projects">Full Project Documentation Here</a>"
+          # - name: FRONTEND_MESSAGE
+          #   value: "End-to-End DevSecOps Project - <a href="https://opeyemitechpro.github.io/my-projects">Full Project Documentation Here</a>"
           resources:
             requests:
               cpu: 100m
