@@ -245,7 +245,7 @@ spec:
           # - name: CYMBAL_BRANDING
           #   value: "true"
           - name: FRONTEND_MESSAGE
-            value: "OpeyemiTechPro Message."
+            value: "OpeyemiTechPro - https://opeyemitechpro.github.io/my-projects."
           resources:
             requests:
               cpu: 100m
