@@ -6,4 +6,4 @@
 > 
 > The project is documented here [Hands-On DevSecOps Project - Automating Provisioning, Deployment and Monitoring of an 11-Microservice e-Commerce App on EKS](https://opeyemitechpro.github.io/my-projects/devops_projects/11micro/)
 
-This repo contains the complete ArgoCD manifest that deploys the application to kubernetes clusters
+This repo contains the complete ArgoCD manifest that deploys the application to kubernetes cluster
